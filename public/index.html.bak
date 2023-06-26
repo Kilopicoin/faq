@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+	<link rel="stylesheet" href="mystyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+	
+    <div id="root"></div>
+
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+<br>
+	
+	<h1>Kilopi FAQs</h1>
+
+<div class="wrapper">
+  
+  <div class="container">
+    <div class="question">
+      What is a DAO ?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+        D.A.O is a Decentralized Autonomous Organization where there is no central authority.
+
+
+
+
+      </div>
+    </div>
+  </div>
+  
+    <div class="container">
+    <div class="question">
+      What is Kilopi DAO ?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+        Kilopi is a type of D.A.O where the community can propose and vote by inserting their comments in detail and everything gets recorded into the Harmony Blockchain
+
+
+
+
+      </div>
+    </div>
+  </div>
+  
+      <div class="container">
+    <div class="question">
+      What is the purpose of the Kilopi DAO ?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+        The purpose of the Kilopi D.A.O is to build a fair and sustainable decentralized autonomous organization to build sustainable decentralized applications on blockchains.
+
+
+
+
+      </div>
+    </div>
+  </div>
+ 
+  <div class="container">
+    <div class="question">
+      How can i involve to Kilopi DAO ?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+        You can help the project’s development by using the exchanges under the ecosystem link and purchasing some LOP tokens. You can wait until the D.A.O release and use it to propose your ideas or vote for others’ ideas to help the project gets shaped by the community. You can follow the ecosystem updates and involve the new dApps which are being developed by Kilopi D.A.O.
+
+
+   
+      </div>
+    </div>
+  </div>
+  
+  <div class="container">
+    <div class="question">
+      What is the role of the LOP token in Kilopi DAO ?
+    </div>
+    <div class="answercont">
+      <div class="answer">
+        All processes in Kilopi D.A.O require very small amount of LOP tokens to make the system sustainable and to avoid the flooding. Also, all the rewards are being distributed by LOP tokens for those who involve to the ecosystem elements or give successful proposals/votes.
+
+
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  <div class="container">
+    <div class="question">
+      I have another question
+    </div>
+    <div class="answercont">
+      <div class="answer">
+        Please send an email to kilopicoin@gmail.com. We will reply back as soon as possible.
+
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+</div>
+
+
+
+	
+	
+	
+	<script src="myscripts.js"></script>
+	
+	
+  </body>
+</html>
